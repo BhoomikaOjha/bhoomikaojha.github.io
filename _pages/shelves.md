@@ -7,9 +7,11 @@ permalink: /shelves/
 
 ## Currently Reading
 * [Mine!: How the Hidden Rules of Ownership Control Our Lives](https://www.goodreads.com/book/show/54226795-mine)
+* [Are You Enjoying?](https://www.goodreads.com/book/show/55276954-are-you-enjoying)
 * [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
 * [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://www.goodreads.com/book/show/12158480-why-nations-fail)
 * [Valuation: Measuring and Managing the Value of Companies](https://www.goodreads.com/book/show/886667.Valuation?ref=nav_sb_ss_2_9)
+
 
 
 
