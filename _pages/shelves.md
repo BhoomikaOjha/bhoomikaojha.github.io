@@ -17,7 +17,7 @@ permalink: /shelves/
 
 <br>
 ## Recently Abandoned
-#### _which paves way for a future "Recently Picked Up Again" section_
+#### _which paves the way for a future "Recently Picked Up Again" section_
 * [Jugalbandi: The BJP before Modi](https://www.goodreads.com/book/show/55987594-jugalbandi)
 
 <br>
