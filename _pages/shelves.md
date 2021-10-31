@@ -23,6 +23,7 @@ permalink: /shelves/
 <br>
 ## Recently Received Suggestions
 * [The Dinner](https://www.goodreads.com/book/show/40718205-the-dinner)
+* [A Gentleman In Moscow](https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow)
 
 <br>
 ## Publications I Enjoy
