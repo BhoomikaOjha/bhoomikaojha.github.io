@@ -16,13 +16,13 @@ permalink: /shelves/
 * [Valuation: Measuring and Managing the Value of Companies](https://www.goodreads.com/book/show/886667.Valuation?ref=nav_sb_ss_2_9)
 
 <br>
-## Recently Received Suggestions
-* [The Dinner](https://www.goodreads.com/book/show/40718205-the-dinner)
-
-<br>
 ## Recently Abandoned
 #### _which paves way for a future "Recently Picked Up Again" section_
 * [Jugalbandi: The BJP before Modi](https://www.goodreads.com/book/show/55987594-jugalbandi)
+
+<br>
+## Recently Received Suggestions
+* [The Dinner](https://www.goodreads.com/book/show/40718205-the-dinner)
 
 <br>
 ## Publications I Enjoy
