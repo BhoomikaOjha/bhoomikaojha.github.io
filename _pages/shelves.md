@@ -7,7 +7,7 @@ permalink: /shelves/
 <br>
 ## Currently Reading (Fast)
 * [Mine!: How the Hidden Rules of Ownership Control Our Lives](https://www.goodreads.com/book/show/54226795-mine)
-* [Are You Enjoying?](https://www.goodreads.com/book/show/55276954-are-you-enjoying)
+* [The Constant Gardener](https://www.goodreads.com/book/show/19000.The_Constant_Gardener)
 * [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
 
 <br>
@@ -21,8 +21,12 @@ permalink: /shelves/
 * [Jugalbandi: The BJP before Modi](https://www.goodreads.com/book/show/55987594-jugalbandi)
 
 <br>
-## Recently Received Suggestions
+## Recently Finished
+* [Are You Enjoying?](https://www.goodreads.com/book/show/55276954-are-you-enjoying)
 * [The Dinner](https://www.goodreads.com/book/show/40718205-the-dinner)
+
+<br>
+## Recently Received Suggestions
 * [A Gentleman In Moscow](https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow)
 
 <br>
