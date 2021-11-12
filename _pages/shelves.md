@@ -28,6 +28,7 @@ permalink: /shelves/
 <br>
 ## Recently Received Suggestions
 * [A Gentleman In Moscow](https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow)
+* [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air)
 
 <br>
 ## Publications I Enjoy
