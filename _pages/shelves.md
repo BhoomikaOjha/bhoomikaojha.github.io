@@ -12,16 +12,15 @@ permalink: /shelves/
 <br>
 ## Currently Reading (Slow)
 * [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://www.goodreads.com/book/show/12158480-why-nations-fail)
-* [Valuation: Measuring and Managing the Value of Companies](https://www.goodreads.com/book/show/886667.Valuation?ref=nav_sb_ss_2_9)
+
 
 <br>
 ## Recently Abandoned
 #### _which paves the way for a future "Recently Picked Up Again" section_
-* [Jugalbandi: The BJP before Modi](https://www.goodreads.com/book/show/55987594-jugalbandi)
+* [Valuation: Measuring and Managing the Value of Companies](https://www.goodreads.com/book/show/886667.Valuation?ref=nav_sb_ss_2_9)
 
 <br>
 ## Recently Finished
-* [Are You Enjoying?](https://www.goodreads.com/book/show/55276954-are-you-enjoying)
 * [The Dinner](https://www.goodreads.com/book/show/40718205-the-dinner)
 * [The Constant Gardener](https://www.goodreads.com/book/show/19000.The_Constant_Gardener)
 
